@@ -1,0 +1,44 @@
+body{
+	background-color:#F8F8F8!important;
+}
+
+#profile-wrapper{
+	text-align: center;
+}
+
+#profile-pic{
+	width:180px;
+	height: 180px;
+	border-radius: 50%;
+	margin-left: auto;
+  	margin-right: auto;
+}
+
+ul{
+	padding: 0;
+    list-style-type: none;
+}
+
+
+.social-links ul, 
+.social-links li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+
+.social{
+	width: 60px;
+	height: 60px;
+}
+
+.card-body p,
+.card-body h1,
+.card-body h2,
+.card-body h3,
+.card-body h4,
+.card-body h5,
+.card-body h6 {
+    padding-left: 10px;
+}
+
